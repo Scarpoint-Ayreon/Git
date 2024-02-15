@@ -12,3 +12,10 @@ git checkout - **вернуться в главную ветку**
 git status - команда, вызывающая блок информации по состоянию репозитория
 
 git init - инициализация гита
+
+
+### Homework
+
+git commit -am "Name" - git add + git commit
+
+git branch -b "Name" - Создание и переход ветки
