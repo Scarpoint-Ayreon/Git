@@ -19,3 +19,6 @@ git init - инициализация гита
 git commit -am "Name" - git add + git commit
 
 git branch -b "Name" - Создание и переход ветки
+
+
+git hub
